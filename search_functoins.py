@@ -79,7 +79,6 @@ def by_add(query, trie,index):
     return get_delete_or_add_score(by_sub(query[1:], trie),query, index)
 
 
-
 def by_change(query):
     tmp_trie = g_trie
     replace_results = {}
