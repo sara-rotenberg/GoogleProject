@@ -12,7 +12,7 @@ Otherwise will be returned sentences containing the sub-string with one of the c
 
 The results will be from sentences within given input text files.
 
-### Exemple
+### Example
 #### The user input: 
 appl
 
